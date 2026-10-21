@@ -1,0 +1,3 @@
+nodeLinker: hoisted
+patchedDependencies:
+  react@19.2.0: patches/react@19.2.0.patch
